@@ -1,9 +1,9 @@
 // JavaScript source code
 // ==UserScript==
 // @name         AutoRateJiaowu
-// @namespace
+// @namespace    https://github.com/HuangJY503/RateAAO
 // @version      0.1
-// @description  树维系统自动评价
+// @description  树维系统量化评教自动评价
 // @author       PepperFishhhh
 // @match        *://219.216.96.4/*
 // @match        *://219.216.96.4/*
